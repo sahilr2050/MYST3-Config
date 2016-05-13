@@ -1,0 +1,10 @@
+{
+	"enable_auto_align": true,
+	"format_on_save": false,
+	"passes":
+	[
+		"ReindentSwitchBlocks"
+	],
+	"version": 4,
+	"yoda": true
+}

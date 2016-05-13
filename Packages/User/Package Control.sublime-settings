@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"DocBlockr",
+		"Emmet",
+		"Expression",
+		"Handlebars",
+		"HTML5",
+		"jQuery",
+		"jQuery Mobile Snippets",
+		"jQuery Snippets pack",
+		"LocalVariable",
+		"Method",
+		"Open URL",
+		"Package Control",
+		"PerlTidy",
+		"PHP Completions Kit",
+		"PHP MySQLi connection",
+		"PHP Syntax Checker",
+		"Phpcs",
+		"phpfmt",
+		"PHPIntel",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"Statement",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SyntaxHighlighter Reloaded Color Scheme",
+		"Tag",
+		"Theme - Piatto",
+		"Trimmer"
+	]
+}

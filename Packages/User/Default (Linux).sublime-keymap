@@ -1,0 +1,4 @@
+[
+	{ "keys": ["alt+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"} },
+ 	{ "keys": ["shift+f9"], "command": "goto_definition" }
+]
